@@ -1,0 +1,3 @@
+#+TITLE: org-q.el
+
+Basic sql on csv in org babel using q.
